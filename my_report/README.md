@@ -14,7 +14,7 @@ I tried to make a cool shot of the taxi for the last challenge.
 
 ![Screenshot](Capture_899.png)
 
-I might change subject later and make an animation for my video-game String-Drive.
+I might change the subject later and make an animation for my video-game String-Drive.
 
 # 2nd Deliverable
 
