@@ -6,16 +6,15 @@
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
-
-
-
-# Summary
-
+Hi, here I'm planning to make a short animation for the Digital-Storytelling lesson at my university.
 
 # 1st Deliverable
-Hi, this is the 1st deliverable. Nothing special so far, just followed the tutorials, made a few customizations and added some animated cameras to create the dailys you will find in the folders.
+This is the 1st deliverable. Nothing special so far, just followed the tutorials, made a few customizations and added some animated cameras to create the dailys you will find in the folders.
+I tried to make a cool shot of the taxi for the last challenge.
 
 ![Screenshot](Capture_899.png)
+
+I might change subject later and make an animation for my video-game String-Drive.
 
 # 2nd Deliverable
 
