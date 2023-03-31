@@ -19,11 +19,13 @@ For Unit 3, this is the traffic cone I modeled:
 ![Screenshot](Capture_904.png)
 
 And for Unit 4, there are two dailies you can check. One is this one, with pedestrians.
-![Screenshot](Capture_899.png)
+![Screenshot](Capture_905.png)
 
 And then the other one is this one where I tried to make a cool shot of the taxi for the last challenge.
-
 ![Screenshot](Capture_899.png)
+
+The camera and car animation especially required a lot of work so that they came out smooth, with extra attention paid to the angle of the tangents on each keyframe.
+![Screenshot](Capture_906.png)
 
 # 2nd Deliverable
 
