@@ -27,6 +27,8 @@ And then the other one is this one where I tried to make a cool shot of the taxi
 The camera and car animation especially required a lot of work so that they came out smooth, with extra attention paid to the angle of the tangents on each keyframe.
 ![Screenshot](Capture_906.png)
 
+This is all for now.
+
 # 2nd Deliverable
 
 
