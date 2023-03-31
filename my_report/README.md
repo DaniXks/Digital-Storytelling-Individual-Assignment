@@ -18,7 +18,11 @@ For Unit 2 I created these simple custom buildings with "ProBuilder" in Unity:
 For Unit 3, this is the traffic cone I modeled:
 ![Screenshot](Capture_904.png)
 
-And for Unit 4, there are two dailies you can check. One is this one, with pedestrians.
+And here is a car model I modeled in Blender that will replace the taxi in the future:
+![Screenshot](Capture_908.png)
+![Screenshot](Capture_907.png)
+
+For Unit 4, there are two dailies you can check. One is this one, with pedestrians.
 ![Screenshot](Capture_905.png)
 
 And then the other one is this one where I tried to make a cool shot of the taxi for the last challenge.
