@@ -37,6 +37,7 @@ This is all for now.
 
 Time to step up my game and move entirely to Blender. And Gaea.
 And use some of my music again.
+I chose the title Proto type.
 
 I updated the car textures to match the environment. So I added dust and dirt. Then changed the colour to a dark blue.
 ![Screenshot](Capture_911.png)
@@ -62,9 +63,8 @@ For the fourth shot, when the car enters the frame, I simulated some smoke.
 ![Screenshot](Capture_917.png)
 
 For the rendering I used the 2.37:1 ratio for a widescreen cinematic feel, with a resolution of 1920 x 810.
-I used Cycles for maximum realism and tried to optimize it as much as I could to improve rendering times. No frame took more than 15 seconds to render in this video, some took only 4.
+I used Cycles for maximum realism and tried to optimize it as much as I could to improve rendering times. No frame took more than 15 seconds to render in this video, some took only 4. Some shots are rendered with only 64 samples, others with 128. Some have denoising, some don't.
 
-Some shots are rendered with only 64 samples, others with 128. Some have denoising, some don't.
 Lastly, I used DaVinci Resolve to assemble and edit all the rendered shots and color-correct everything. I also added the animated titles in the intro.
 ![Screenshot](Capture_919.png)
 
