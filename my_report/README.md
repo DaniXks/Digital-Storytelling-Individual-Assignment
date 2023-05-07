@@ -63,6 +63,7 @@ For the fourth shot, when the car enters the frame, I simulated some smoke.
 
 For the rendering I used the 2.37:1 ratio for a widescreen cinematic feel, with a resolution of 1920 x 810.
 I used Cycles for maximum realism and tried to optimize it as much as I could to improve rendering times. No frame took more than 15 seconds to render in this video, some took only 4.
+
 Some shots are rendered with only 64 samples, others with 128. Some have denoising, some don't.
 Lastly, I used DaVinci Resolve to assemble and edit all the rendered shots and color-correct everything. I also added the animated titles in the intro.
 ![Screenshot](Capture_919.png)
