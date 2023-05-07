@@ -63,6 +63,7 @@ For the fourth shot, when the car enters the frame, I simulated some smoke.
 
 For the rendering I used the 2.37:1 ratio for a widescreen cinematic feel, with a resolution of 1920 x 810.
 I used Cycles for maximum realism and tried to optimize it as much as I could to improve rendering times. No frame took more than 15 seconds to render in this video, some took only 4.
+
 Some shots are rendered with only 64 samples, others with 128. Some have denoising, some don't.
 Lastly, I used DaVinci Resolve to assemble and edit all the rendered shots and color-correct everything. I also added the animated titles in the intro.
 ![Screenshot](Capture_919.png)
@@ -79,6 +80,13 @@ Lastly, the music was composed by me using FL Studio :)
 Here is the final version! (for now) 
 
 Enjoy!
+
+
+https://user-images.githubusercontent.com/65423916/236704392-576b6455-d3d4-4b79-8861-3982f56410ef.mp4
+
+
+Here is a YouTube link for better quality: https://www.youtube.com/watch?v=9yS4FdB8w9E
+
 
 
 # 3rd Deliverable
