@@ -35,8 +35,42 @@ This is all for now.
 
 # 2nd Deliverable
 
+Time to step up my game and move entirely to Blender. And Gaea.
+And use some of my music again.
 
-# 3rd Deliverable 
+I updated the car textures to match the environment. So I added dust and dirt. Then changed the colour to a dark blue.
+![Screenshot](Capture_911.png)
+
+Then I created a new desert environment inside a software for generating environments called "Gaea".
+![Screenshot](Capture_912.png)
+
+Exported it into a "16bit Tiff" and used the texture to displace a plane with the Displace modifier inside Blender.
+![Screenshot](Capture_913.png)
+
+Then created a highway with an array modifier, applied a highway texture, and flattened the dunes so that the road can pass through them.
+Also applied a sky texture to light up everything in a cinematic way, with the sun close to the horizon.
+![Screenshot](Capture_914.png)
+
+Then added 2 skyscrapers, using a model I had modelled earlier, and damaged them a little by deleting a few pieces and bending others. Also added some dust.
+![Screenshot](Capture_915.png)
+
+Finally, imported the car model and did the most time consuming thing in this project which was...its animation.
+The cameras and cars are all meticulously animated manually (if we ignore the noise/waves I used to make the smallest shakes for the wheels and the tiny camera shake for some shots).
+![Screenshot](Capture_916.png)
+
+For the fourth shot, when the car enters the frame, I simulated some smoke.
+![Screenshot](Capture_917.png)
+
+For the rendering I used the 2.37:1 ratio for a widescreen cinematic feel, with a resolution of 1920 x 810.
+I used Cycles for maximum realism and tried to optimize it as much as I could to improve rendering times. No frame took more than 15 seconds to render in this video, some took only 4.
+Some shots are rendered with only 64 samples, others with 128. Some have denoising, some don't.
+![Screenshot](Capture_918.png)
+
+Lastly, I used DaVinci Resolve to assemble all the rendered shots and color-correct everything.
+![Screenshot](Capture_919.png)
+
+
+# 3rd Deliverable
 
 
 # Conclusions
