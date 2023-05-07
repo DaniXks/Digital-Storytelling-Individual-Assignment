@@ -67,12 +67,14 @@ Some shots are rendered with only 64 samples, others with 128. Some have denoisi
 Lastly, I used DaVinci Resolve to assemble and edit all the rendered shots and color-correct everything.
 ![Screenshot](Capture_919.png)
 
-Here is a comparison:
+Here is a comparison.
 This is a rendered frame straight out of Blender:
 ![Screenshot](358_Cam06_No-CC.png)
 
 This is the same frame but color-corrected:
 ![Screenshot](358_Cam06_CC.png)
+
+Lastly, the music was composed in FL Studio.
 
 
 # 3rd Deliverable
