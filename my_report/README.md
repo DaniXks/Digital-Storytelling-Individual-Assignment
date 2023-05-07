@@ -81,7 +81,8 @@ Here is the final version! (for now)
 Enjoy!
 
 
-https://user-images.githubusercontent.com/65423916/236699212-58ed85a7-d08f-41f9-9369-ce042ab3b03e.mp4
+https://user-images.githubusercontent.com/65423916/236704392-576b6455-d3d4-4b79-8861-3982f56410ef.mp4
+
 
 Here is a YouTube link for better quality: https://www.youtube.com/watch?v=D81rn1Xqy0c
 
