@@ -13,7 +13,7 @@ The subject is probably going to be a car chase.
 This is the 1st deliverable. Nothing special so far, just followed the tutorials, made a few customizations and added some animated cameras to create the dailys you will find in the folders.
 
 For Unit 2 I created these simple custom buildings with "ProBuilder" in Unity:
-![Screenshot](pictures/Capture_903.png)
+![Screenshot](picture/Capture_903.png)
 
 For Unit 3, this is the traffic cone I modeled:
 ![Screenshot](pictures/Capture_904.png)
