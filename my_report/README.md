@@ -103,6 +103,7 @@ Animating the car when it jumps on the airplane was tricky as it had to remain a
 Here is the final version for this lesson. I'm planning to improve the video and publish it on my YouTube channel in the future.
 
 (I had to compress this a lot to make it smaller than 10 MB, please watch the YouTube version)
+
 https://github.com/DaniXks/Digital-Storytelling-Individual-Assignment/assets/65423916/3c9b0168-53c3-4a4f-8074-1927dce32624
 
 Here is the YouTube link for better quality, it goes up to 4K: https://www.youtube.com/watch?v=W0q_ac8RWXg
