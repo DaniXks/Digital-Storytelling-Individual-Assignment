@@ -94,8 +94,9 @@ Here is a YouTube link for better quality: https://www.youtube.com/watch?v=9yS4F
 Hi again,
 
 to finalize this video I re-rendered a lot of the shots in higher quality, with more samples and better de-noising. I also re-animated a lot of the shots, re-baked all of the dust in higher resolution and improved the road.
-By improving the road I mean that I scattered some small rocks and sprites with vegetation across it's surface. Overall, a bit of everything has been improved.
-Here is a before and after:
+By improving the road I mean that I scattered some small rocks and sprites with vegetation across it's surface. 
+
+Overall, a bit of everything has been improved. Here is a before and after:
 ![Screenshot](pictures/358_Cam04_v01.png)
 ![Screenshot](pictures/358_Cam04_v02.png)
 
