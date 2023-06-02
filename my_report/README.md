@@ -105,6 +105,7 @@ The airplane is another model I had done in my free time in the past.
 ![Screenshot](pictures/Capture_923.png)
 
 Animating the car when it jumps on the airplane was tricky as it had to remain attached to the airplane. To do it I used an empty object parented to the airplane and then constrained the car to that object. I then animated the influence of the constraint from 0 to 1 when the car lands on the airplane.
+![Screenshot](pictures/Capture_924.png)
 
 Here is the final version for this lesson. I'm planning to improve the video and publish it on my YouTube channel in the future.
 
