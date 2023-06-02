@@ -92,6 +92,11 @@ Here is a YouTube link for better quality: https://www.youtube.com/watch?v=9yS4F
 # 3rd Deliverable
 
 
+https://github.com/DaniXks/Digital-Storytelling-Individual-Assignment/assets/65423916/3c9b0168-53c3-4a4f-8074-1927dce32624
+
+
+
+
 # Conclusions
 
 
