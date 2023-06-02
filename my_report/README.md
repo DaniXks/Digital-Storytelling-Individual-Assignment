@@ -94,9 +94,14 @@ Here is a YouTube link for better quality: https://www.youtube.com/watch?v=9yS4F
 Hi again,
 
 to finalize this video I re-rendered a lot of the shots in higher quality, with more samples and better de-noising. I also re-animated a lot of the shots, re-baked the car dust in higher resolution and improved the road.
-By improving the road I mean that I scattered some small rocks and sprites with vegetation across it's surface.
+By improving the road I mean that I scattered some small rocks and sprites with vegetation across it's surface. Overall, a bit of everything has been improved.
+Here is a before and after:
+![Screenshot](pictures/358_Cam04_v01.png)
+![Screenshot](pictures/358_Cam04_v02.png)
+
 
 The airplane is another model I had done in my free time in the past.
+![Screenshot](pictures/Capture_923.png)
 
 Animating the car when it jumps on the airplane was tricky as it had to remain attached to the airplane. To do it I used an empty object parented to the airplane and then constrained the car to that object. I then animated the influence of the constraint from 0 to 1 when the car lands on the airplane.
 
